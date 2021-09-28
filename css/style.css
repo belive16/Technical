@@ -1,0 +1,78 @@
+body{
+  display: flex;
+  background-color: ;
+}
+
+#navbar{
+  float: left;
+width: 15%;
+border-style: solid;
+}
+.main-section{
+  text-align: center;
+  border-style: solid;
+
+}
+@media only screen and (min-width: 600px) {
+  .example {background: green;}
+}
+#Drifting{
+  float: left;
+  width: 55%;
+  background-image: url(../img/rtvstf.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Rallying{
+  float: right;
+  width: 60%;
+  height: 30%;
+  background-image: url(../img/lan.png);
+  background-size: cover;
+  background-position:bottom left;
+  background-repeat: no-repeat;
+}
+#Motorsport{
+  float: left;
+  height: 29%;
+  width: 60%;
+  background-image: url(../img/nsx.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#Endurance-racing{
+  float: right;
+  width: 62%;
+  height: 29%;
+  background-image: url(../img/kt.png);
+  background-size: cover;
+  background-position:bottom ;
+  background-repeat: no-repeat;
+}
+#Auto-racing{
+  float: left;
+  height: 25%;
+  width: 60%;
+  background-image: url(../img/z.png);
+  background-size: cover;
+  background-position:bottom ;
+  background-repeat: no-repeat;
+}
+p{
+  background-color: rgba(255, 211, 0, 0.8);
+  text-align: center;
+  border-radius: 25px;
+   border: 2px solid red;
+}
+h2{
+  background-color: rgba(255, 211, 0, 0.8);
+  text-align: center;
+  border-radius: 25px;
+   border: 2px solid red;
+}
+.cnx{
+  background-color: rgba(255, 211, 0, 0.8);
+  text-align: center;
+  border-radius: 25px;
+   border: 2px solid red;
+}
